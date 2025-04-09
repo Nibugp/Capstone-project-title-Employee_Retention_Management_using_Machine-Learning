@@ -39,9 +39,9 @@ Several machine learning models were trained and evaluated:
 
 * Final deep learning model achieved:
 
-### 83% validation accuracy
-### 91% recall
-### 0.91 AUC-ROC score
+83% validation accuracy
+91% recall
+0.91 AUC-ROC score
   
 
 ##**🔍 Insights & Feature Importance**
