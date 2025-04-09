@@ -40,11 +40,13 @@ Several machine learning models were trained and evaluated:
 * Final deep learning model achieved:
 
 83% validation accuracy
+
 91% recall
+
 0.91 AUC-ROC score
   
 
-##**🔍 Insights & Feature Importance**
+## **🔍 Insights & Feature Importance**
 
 Top predictors of attrition included:
 
@@ -61,6 +63,6 @@ Top predictors of attrition included:
 SHAP analysis confirmed these drivers and added transparency to model decisions.
 
 
-##**🚀 Conclusion & Recommendation**
+## **🚀 Conclusion & Recommendation**
 
 The study demonstrated that deep learning methods are effective for predicting employee attrition, especially when combined with data balancing techniques.
