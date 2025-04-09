@@ -1,14 +1,14 @@
-## Machine-learning-capstone-project-title-Employee_Retention_Management
+# Machine-learning-capstone-project-title-Employee_Retention_Management
 
 In this machine learning capstone project, I explored and evaluated multiple algorithms to identify the most reliable model, synthesizing key concepts in machine learning, data preparation, and predictive modeling to develop a robust and actionable solution.
 
 
-**📁 Dataset Overview**
+## **📁 Dataset Overview**
 
 The dataset used contains 1,680 employee records from a global ERD organization, with features spanning demographics, compensation, performance, tenure, and promotion history. Given an attrition rate of 27%, class imbalance was a key challenge.
 
 
-**⚙️ Data Preparation & Processing**
+## **⚙️ Data Preparation & Processing**
 
 The data underwent the following processing steps:
 
@@ -19,7 +19,7 @@ The data underwent the following processing steps:
 - Class imbalance handling using SMOTE to improve model sensitivity toward minority class (attrition cases).
 
   
-**✅ Classification Modeling**
+## **✅ Classification Modeling**
 
 Several machine learning models were trained and evaluated:
 
@@ -39,12 +39,12 @@ Several machine learning models were trained and evaluated:
 
 * Final deep learning model achieved:
 
-- 83% validation accuracy
-- 91% recall
-- 0.91 AUC-ROC score
+### 83% validation accuracy
+### 91% recall
+### 0.91 AUC-ROC score
   
 
-**🔍 Insights & Feature Importance**
+##**🔍 Insights & Feature Importance**
 
 Top predictors of attrition included:
 
@@ -61,6 +61,6 @@ Top predictors of attrition included:
 SHAP analysis confirmed these drivers and added transparency to model decisions.
 
 
-**🚀 Conclusion & Recommendation**
+##**🚀 Conclusion & Recommendation**
 
 The study demonstrated that deep learning methods are effective for predicting employee attrition, especially when combined with data balancing techniques.
