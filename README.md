@@ -31,7 +31,7 @@ Several machine learning models were trained and evaluated:
 - Neural Network
   
 
-##**🧠 Key Results**
+## **🧠 Key Results**
 
 * Neural Network (6-layer deep learning model) and Random Forest showed the best performance on balanced data.
 
