@@ -33,11 +33,11 @@ Several machine learning models were trained and evaluated:
 
 **🧠 Key Results**
 
-Neural Network (6-layer deep learning model) and Random Forest showed the best performance on balanced data.
+* Neural Network (6-layer deep learning model) and Random Forest showed the best performance on balanced data.
 
-SMOTE significantly boosted recall from 8.3% to 87.5%, enhancing the model’s ability to identify at-risk employees.
+* SMOTE significantly boosted recall from 8.3% to 87.5%, enhancing the model’s ability to identify at-risk employees.
 
-Final deep learning model achieved:
+* Final deep learning model achieved:
 
 - 83% validation accuracy
 - 91% recall
@@ -62,4 +62,5 @@ SHAP analysis confirmed these drivers and added transparency to model decisions.
 
 
 **🚀 Conclusion & Recommendation**
+
 The study demonstrated that deep learning methods are effective for predicting employee attrition, especially when combined with data balancing techniques.
