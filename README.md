@@ -19,7 +19,7 @@ The data underwent the following processing steps:
 - Class imbalance handling using SMOTE to improve model sensitivity toward minority class (attrition cases).
 
   
-✅ Classification Modeling
+**✅ Classification Modeling**
 Several machine learning models were trained and evaluated:
 
 - Logistic Regression
@@ -30,7 +30,7 @@ Several machine learning models were trained and evaluated:
 - Neural Network
   
 
-🧠 Key Results
+**🧠 Key Results**
 Neural Network (6-layer deep learning model) and Random Forest showed the best performance on balanced data.
 
 SMOTE significantly boosted recall from 8.3% to 87.5%, enhancing the model’s ability to identify at-risk employees.
@@ -42,7 +42,7 @@ Final deep learning model achieved:
 - 0.91 AUC-ROC score
   
 
-🔍 Insights & Feature Importance
+**🔍 Insights & Feature Importance**
 
 Top predictors of attrition included:
 
@@ -59,5 +59,5 @@ Top predictors of attrition included:
 SHAP analysis confirmed these drivers and added transparency to model decisions.
 
 
-🚀 Conclusion & Recommendation
+**🚀 Conclusion & Recommendation**
 The study demonstrated that deep learning methods are effective for predicting employee attrition, especially when combined with data balancing techniques.
