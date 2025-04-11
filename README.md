@@ -74,3 +74,8 @@ SHAP analysis confirmed these drivers and added transparency to model decisions.
 ## **🚀 Conclusion & Recommendation**
 
 The study demonstrated that deep learning methods are effective for predicting employee attrition, especially when combined with data balancing techniques.
+
+
+## 📂 Project Structure
+
+- `retention_management.py` — Main Python script for preprocessing, modeling, and evaluation
