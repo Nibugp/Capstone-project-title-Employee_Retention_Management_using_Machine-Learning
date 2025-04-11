@@ -79,3 +79,5 @@ The study demonstrated that deep learning methods are effective for predicting e
 ## 📂 Project Structure
 
 - `retention_management.py` — Main Python script for preprocessing, modeling, and evaluation
+- - [`retention_management.py`](https://github.com/Nibugp/Capstone-project-title-Employee_Retention_Management_using_Machine-Learning/blob/main/retention_management.py) — View the full source code on GitHub
+
