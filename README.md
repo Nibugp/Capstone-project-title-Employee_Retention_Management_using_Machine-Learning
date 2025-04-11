@@ -8,6 +8,14 @@ In this machine learning capstone project, I explored and evaluated multiple alg
 The dataset used contains 1,680 employee records from a global ERD organization, with features spanning demographics, compensation, performance, tenure, and promotion history. Given an attrition rate of 27%, class imbalance was a key challenge.
 
 
+## **🎯 Project Objectives**
+
+1.	Identify Key Attrition Drivers
+2.	Determine the Most Effective Model
+3.  Develop a Predictive Model
+4.  Evaluate Model Effectiveness and Provide Insights for Future Actions
+
+
 ## **⚙️ Data Preparation & Processing**
 
 The data underwent the following processing steps:
